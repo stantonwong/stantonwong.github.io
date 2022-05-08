@@ -28,6 +28,7 @@ The new rules essentially requires the disclosure of greenhouse gas emissions un
 - Scope 3 emissions - all other indirect emissions in company’s value chain, both upstream and downstream
 
 ![GHG Scopes]({{ site.url }}/assets/post/ghg_protocol_scopes.jpg)
+_Green House Gas Protocol - 3 Scopes_
 
 Just to help provide a bit more context, here’s an example of what Scope 1, 2, and 3 means for a building:
 - Scope 1 emissions - emissions from fuels that are burned on premise or by vehicles owned by the property, including natural gas.
@@ -61,3 +62,12 @@ The GHG Protocol currently requires too many middle parties and there are too ma
 If I could re-design the approach, it would be to first establish the different relevant categories where emissions can come from. Then, make sure that there is an easy and straight forward way to collect data for this category. If the categories are established with clear rules for how data is collected, then companies will only need to compile data for the categories that are relevant to them. Because each category is a stand alone module, this will allow for yearly updates where individual categories get minor upgrades or new categories get updated when new industries or businesses are created.
 
 In any case, the trajectory of the industry and the world, in regards to climate change and carbon, has been very positive and promising and I am very excited for where we go next.
+
+
+---
+
+## About RESET
+
+RESET is a set of standards and assessment tools & services to develop actionable, long term strategies towards health and sustainability for the built environment.
+
+Learn more about [RESET](https://reset.build/).

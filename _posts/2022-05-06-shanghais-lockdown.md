@@ -11,6 +11,10 @@ It is a little over 1 month into the Shanghai lockdown, which started on April 1
 
 For this piece, we will be focusing on the logistics of food in a city that is frozen still and we will not be diving into details around mass testing, lack of hospital access, business and economic repercussions from being closed for so long, and a myriad of other mishaps and unpleasantries due to the situation.
 
+
+![Empty_Streets_of_Shanghai]({{ site.url }}/assets/post/empty_streets_of_shanghai.jpeg)
+_Empty streets of Shanghai, by Gao Zheng. More photos available [here](https://www.sixthtone.com/news/1010256/Photographs%20of%20an%20Empty%20Shanghai)._
+
 ## The Start of the Lockdown
 
 Let’s first set up the situation. In early March, the Huating Hotel was one of the sites for mandatory quarantine for people flying back into mainland China. Due to an outdated indoor air system that allowed COVID-19 to spread throughout the hotel, employees of the hotel started carrying the virus back to their communities all across Shanghai. This is the first real occurrence of the Omicron variant spreading uncontrolled in China and the government was not prepared on how to handle it.
