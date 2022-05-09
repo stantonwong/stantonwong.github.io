@@ -20,7 +20,7 @@ Synthetic assets are tokenized derivatives, financial derivatives leveraging cry
 
 Synthetic assets can be derivatives of stocks, tokens, indices, NFTs, or other financial products and a common subset of synthetic assets, mirrored assets, are produced to mimic the original asset in the form of its price movement. For example, a mirrored asset of a stock would mimic the price fluctuations of the stock, while a mirrored asset of a crypto token would mimic the price fluctuations of said token.
 
-A security on the other hand, is described the following by [Investopedia](https://www.investopedia.com/terms/s/security.asp):
+A security, on the other hand, is described as the following in [Investopedia](https://www.investopedia.com/terms/s/security.asp):
 
 > The term "security" refers to a fungible, negotiable financial instrument that holds some type of monetary value. It represents an ownership position in a publicly-traded corporation via stock; a creditor relationship with a governmental body or a corporation represented by owning that entity's bond; or rights to ownership as represented by an option.
 
