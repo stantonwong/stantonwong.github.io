@@ -3,7 +3,7 @@ layout: post
 title: METH Summary 2 - Gender Equality and Feminism
 date: 2020-08-09 19:30:00 +0800
 location: Shanghai
-categories: [METH]
+categories: [Education, METH]
 tags: METH gender_equality feminism
 ---
 

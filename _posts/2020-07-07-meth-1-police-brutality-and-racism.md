@@ -3,7 +3,7 @@ layout: post
 title: METH Summary 1 - Police Brutality and Racism
 date: 2020-07-07 19:30:00 +0800
 location: Shanghai
-categories: [METH]
+categories: [Education, METH]
 tags: METH police_brutality racism
 ---
 

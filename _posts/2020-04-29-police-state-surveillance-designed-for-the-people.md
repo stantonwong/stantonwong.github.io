@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Idea 3 - Police State Surveillance designed for the People
+title: Police State Surveillance designed for the People
 date: 2020-04-29 19:30:00 +0800
 location: Shanghai
 categories: [Random Ideas]

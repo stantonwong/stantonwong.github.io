@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Idea 5 - Racism can only be Solved by being Better than Them
+title: Racism can only be Solved by being Better than Them
 date: 2020-05-01 19:30:00 +0800
 location: Shanghai
 categories: [Random Ideas]

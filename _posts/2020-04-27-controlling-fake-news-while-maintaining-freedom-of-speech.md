@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Idea 1 - Controlling Fake News while maintaining Freedom of Speech
+title: Controlling Fake News while maintaining Freedom of Speech
 date: 2020-04-27 19:30:00 +0800
 location: Shanghai
 categories: [Random Ideas]

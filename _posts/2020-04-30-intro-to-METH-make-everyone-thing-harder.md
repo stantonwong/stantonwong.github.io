@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Idea 4 - METH - Make Everyone Think Harder
+title: Intro to METH - Make Everyone Think Harder
 date: 2020-04-30 19:30:00 +0800
 location: Shanghai
-categories: [Random Ideas]
+categories: [Education, METH]
 tags: ideas METH
 ---
 

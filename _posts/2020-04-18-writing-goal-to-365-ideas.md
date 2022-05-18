@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Idea 0 - Writing Goal to 365 Ideas
+title: Writing Goal to 365 Ideas
 date: 2020-04-18 19:30:00 +0800
 location: Shanghai
 categories: [Random Ideas]

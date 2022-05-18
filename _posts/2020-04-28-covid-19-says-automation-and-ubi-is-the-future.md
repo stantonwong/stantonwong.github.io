@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Idea 2 - COVID-19 says that Automation + UBI is the Future
+title: COVID-19 says that Automation + UBI is the Future
 date: 2020-04-28 19:30:00 +0800
 location: Shanghai
 categories: [Random Ideas]

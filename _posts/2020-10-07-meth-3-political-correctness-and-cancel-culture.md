@@ -3,7 +3,7 @@ layout: post
 title: METH Summary 3 - Political Correctness + Cancel Culture
 date: 2020-10-07 15:30:00 +0800
 location: Shanghai
-categories: [METH]
+categories: [Education, METH]
 tags: METH political_correctness cancel_culture
 ---
 
