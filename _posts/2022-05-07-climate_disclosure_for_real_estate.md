@@ -3,7 +3,7 @@ layout: post
 title: SEC’s Proposed rule around Climate Disclosure for Real Estate Companies
 date: 2022-05-07 17:00:00 +0800
 location: Shanghai
-categories: [RESET]
+categories: [Sustainability, Real Estate]
 tags: RESET healthy_buildings carbon climate_change
 ---
 
