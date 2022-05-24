@@ -89,7 +89,9 @@ I mentioned in a previous [article](https://stantonwong.com/posts/climate_disclo
 
 ## RESET and Green bonds for Real Estate
 
-Disclaimer: I am the President of [RESET](https://reset.build/). If you don’t want to read the plug, you can skip this section, but conceptually, it is quite important.
+> **Disclaimer:** I am the President of [RESET](https://reset.build/). If you don’t want to read the plug, you can skip this section, but conceptually, it is quite important.
+{: .prompt-info }
+
 
 [RESET](https://reset.build/) is a data standard with the purpose of promoting healthier and more sustainable built environments. Our data standard essentially sets a framework for the above: what, how, how to verify, and how to make it accessible. We also break it down into embodied data and operating data, one pertaining to the construction phase of the building while the other pertains to the operating phase of the building. Someone recently described RESET as a performance and evidenced based standard instead of a feature-based standard. Essentially, RESET is here to help you measure and collect data about your built environment.
 
