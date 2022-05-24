@@ -26,8 +26,8 @@ In real estate, this is coming in the form of green bonds. So what is a green bo
 
 > A green bond is a fixed-income instrument designed specifically to support specific climate-related or environmental projects. The 
 
-![Green_and_Money]({{ site.url }}/assets/post/2022-05-23/green_and_money.jpg)
-_Greens and money to represent a green bond._
+![Green_and_Money]({{ site.url }}/assets/post/2022-05-23/green_and_money.jpeg)
+_Greens and money to represent a green bond. By [Towfiqu Barbhuiya](https://unsplash.com/@towfiqu999999)_
 
 ## Defining a Green Bond
 
@@ -56,7 +56,7 @@ As for green bonds in other industries, I did some Googling (and landed [here](h
 
 All this is to say that green bonds are still very nascent.
 
-![Deer_Power]({{ site.url }}/assets/post/2022-05-23/deer_power.jpg)
+![Deer_Power]({{ site.url }}/assets/post/2022-05-23/deer_power.jpeg)
 _A strong deer to emphasize power._
 
 ## A New Factor of Power and Incentive
@@ -105,8 +105,8 @@ RESET includes 5 modules:
 These 5 modules are able to provide a holistic approach to collecting the real-time performance data of a building. If green bonds require reporting that is trustworthy and accessible, there is no better approach than standardized, third-party verified, continuously monitored, performance data.
 
 
-![Cascading_Waterfalls]({{ site.url }}/assets/post/2022-05-23/cascading_waterfalls.jpg)
-_Flowing, cascading waterfalls to highlight our conclusion._
+![Cascading_Waterfalls]({{ site.url }}/assets/post/2022-05-23/cascading_waterfalls.jpeg)
+_Flowing, cascading waterfalls to highlight our conclusion. By [Mike Lewis](https://unsplash.com/@mikeanywhere)_
 
 ## A Cascading Waterfall
 
