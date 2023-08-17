@@ -3,7 +3,7 @@ layout: post
 title: BNB Greenfield and the Evolution of Decentralized Computing Platforms
 date: 2023-05-04 23:00:00 +0800
 location: Shanghai
-categories: [Crypto]]
+categories: [Crypto]
 tags: crypto BNB_Chain BNB_Greenfield
 ---
 
