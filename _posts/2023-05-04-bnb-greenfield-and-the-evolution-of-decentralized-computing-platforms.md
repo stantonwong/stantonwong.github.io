@@ -15,7 +15,7 @@ I've always been fascinated with the decentralization of web services we use dai
 
 With the recent launch of [BNB Greenfield](https://greenfield.bnbchain.org/en), we have another entrant into the decentralized computing platform, so it's worth taking a look at where we started and where we are now.
 
-The following is an exploration into the history and evolution of how we got to the decentralized computing platforms of today. For a detailed analysis of BNB Greenfield, please check this link out instead: 
+The following is an exploration into the history and evolution of how we got to the decentralized computing platforms of today.
 
 ## The first decentralized computing projects
 The concept of decentralized computing power has been around for a while. Back in 1999, [Berkeley SETI Research Center](https://en.wikipedia.org/wiki/Berkeley_SETI_Research_Center "Berkeley SETI Research Center") at the University of California, Berkeley started a project called [SETI@home](https://en.wikipedia.org/wiki/SETI@home), where people at home could install the [BOINC](https://en.wikipedia.org/wiki/Berkeley_Open_Infrastructure_for_Network_Computing) software and volunteer their computer's computing power to help do scientific work around detecting intelligent life outside of Earth.
