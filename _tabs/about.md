@@ -14,5 +14,5 @@ Stanton has a background in software development and product management and is p
 # Currently Active as
 
 - President @ [RESET](https://reset.build/)
-- Education Director @ [Horizon Protocol](https://horizonprotocol.com/)
+<!-- - Education Director @ [Horizon Protocol](https://horizonprotocol.com/) -->
 - Author of [Blankslate Education](https://blankslate.stantonwong.com/)
