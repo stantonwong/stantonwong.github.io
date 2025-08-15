@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stanton" Thoughts
+title: Stanton Thoughts
 date: 2025-08-13 23:00:00 +0800
 location: Shanghai
 categories: 

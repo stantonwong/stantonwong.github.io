@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ST2 - How to better penalize delivery driver traffic violations
+title: How to better penalize delivery driver traffic violations
 date: 2025-08-15 23:00:00 +0800
 location: Shanghai
-categories: 
-tags: 
+categories: [Stanton Thoughts]
+tags:
 ---
 
 Another "Stanton Thought" conversation popped up this week, this time with a co-worker.
