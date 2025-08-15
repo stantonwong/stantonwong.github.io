@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stanton" Thoughts
-date: 2023-05-04 23:00:00 +0800
+date: 2025-08-13 23:00:00 +0800
 location: Shanghai
 categories: 
 tags: 
