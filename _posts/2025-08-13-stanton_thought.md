@@ -3,11 +3,11 @@ layout: post
 title: Stanton Thoughts
 date: 2025-08-13 23:00:00 +0800
 location: Shanghai
-categories: 
+categories: [Stanton Thoughts]
 tags: 
 ---
 
-A good friend of mine were chatting over beers this week and he suddenly said that he had a "Stanton Thought". I was confused, because this is never a term that we've used together before.
+A good friend of mine and I were chatting over beers this week and he suddenly said that he had a "Stanton Thought". I was confused, because this is never a term that we've used together before.
 
 He started explaining that there needs to be more education and systems in place to protect against sexually transmitted diseases in China, especially for non-straight people. There is definitely a lack of information on this front and it's even worst for non-straight people because many of them might still publicly be in the closet, meaning that they would not be able to ask about this in public hospital settings. We imagine the number of people with STIs, or HIV even, might be much higher than we think. And many people might just be living with it without knowing that today's medical solutions, when implemented early enough, can minimize most of the risks around it.
 
