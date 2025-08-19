@@ -18,3 +18,5 @@ So is there a way to solve this? One of the potential problems is how much time 
 When we saw what was happening with the delivery driver and policeman, there were two thoughts. Firstly, it's too bad that we have to be punishing the people who are trying so hard to make ends meet. Secondly, this is a bigger systematic problem that probably will not be solved by just punishing the riders.
 
 What if instead of punishing the riders directly, the police punished the companies behind the riders? Instead of trying to get 50 RMB per ticket, the tickets get consolidated into a larger ticket fining the company? Woudln't that create a lot more incentive for the company to provide more structure and requirements into safety and road choice of these drivers? They have the data anyways, so they know exactly when each driver is going the wrong direction on a road, is traveling through pedestrian sidewalks, etc. Wouldn't punishing the company make for a more impactful result?
+
+At the very least, if you punished the company, they would definitely do something about it, especially if you restricted them from turning around and apportioning the fines to the riders.
