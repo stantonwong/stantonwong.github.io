@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Incentive Structures for Government Positions
-date: 2025-08-20 23:00:00 +0800
+title: How to better penalize delivery driver traffic violations
+date: 2025-08-15 23:00:00 +0800
 location: Shanghai
 categories: [Stanton Thoughts]
 tags:
